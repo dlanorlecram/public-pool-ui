@@ -1,6 +1,6 @@
 export const environment = {
     production: true,
-    API_URL: 'http://truenas.local:13334',
+    API_URL: 'http://192.168.0.60:13334',
     STRATUM_URL: 'truenas.local:13333',
     SECURE_STRATUM_URL: 'truenas.local:4333',
     STRATUM_V2_URL: 'truenas.local:23330',
